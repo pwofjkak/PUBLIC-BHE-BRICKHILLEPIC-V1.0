@@ -1,0 +1,22 @@
+ body
+  {
+    background-image: url("https://cdn.discordapp.com/attachments/556609238093529090/561887617222967306/BHB.png") !important;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+  }
+
+body, td, th, h3, i, em, span, li, div.crate, input, h4, form, textarea, h2, p, div, blockquote, .shopSideBarButton, strong, h5, title, label, h6, forum-create-button blue, p, forum-reply, blue shop-search-button, .loginlinks {
+font-family: Lucida Console;
+}
+
+.forumname, a, table#forum-fr td, .navbar-glow-hover, .main {
+font-family: Lucida Console;
+}
+
+span.posttext .forummsg {
+font-size: 13pt;
+}
+body {
+  color: Green;
+}
+
